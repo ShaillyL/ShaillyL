@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Shailly
 - 👀 I’m interested in TI 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: SOU MACHO
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning With the life
+- 📫 How to reach me My location is my home
+- 😄 Pronouns: I'm Macho
+- ⚡ Fun fact: 
 
 <!---
 ShaillyL/ShaillyL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
