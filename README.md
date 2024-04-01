@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shailly
+- 👋 Hi, I’m shailly
 - 👀 I’m interested in TI 
 - 🌱 I’m currently learning With the life
 - 📫 How to reach me My location is my home
